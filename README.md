@@ -1,4 +1,7 @@
-### Hi there 👋
+### Weclome to my Github!
+
+I am a graduate of Rice University Class of 2022 with a degree in Bioengineering. I like to code in my free time, as well as for medical devices. My most recent project used Python and MATLAB to measure and perform novel statistical tests on a CPAP device my team created for our senior design project.
+<a href="https://iblacksand.github.io/resume/" target="_blank">Resume</a>
 
 <!--
 **iblacksand/iblacksand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
