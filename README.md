@@ -1,4 +1,4 @@
-# Weclome to my Github!
+# Welcome to my Github!
 
 I am a graduate of Rice University Class of 2022 with a degree in Bioengineering. I like to code in my free time, as well as for medical devices. My most recent project used Python and MATLAB to measure and perform novel statistical tests on a CPAP device my team created for our senior design project. You can find my contact information and more about me on my <a href="https://iblacksand.github.io/resume/" target="_blank">resume</a>.
 
